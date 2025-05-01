@@ -5,12 +5,12 @@ import SpecialOffer from "./SpecialOffer";
 import CutomerReviews from "./CutomerReviews";
 import Subscribe from "./Subscribe";
 import Footer from "./Footer";
-import PopularProductCard from "./PopularProducts"
+import PopularProducts from "./PopularProducts"
 
 
 export {
     Hero,
-    PopularProductCard,
+    PopularProducts,
     SuperQuality,
     Services,
     SpecialOffer,
